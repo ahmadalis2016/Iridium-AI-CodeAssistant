@@ -7,7 +7,7 @@ This is a Streamlit web application for an AI-powered code assistant called Cody
 
 ## Demo App
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iridium-ai-llama2chatbot.streamlitapp.com/)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://iridium-ai-cody.streamlit.app/)
 
 ## Prerequisite libraries
 
